@@ -1,5 +1,5 @@
 - 👋 Olá! Meu nome é Matheus.
-- 👀 Eu sou bastante insteressado em programação e sempre a aprender mais.
+- 👀 Eu sou bastante insteressado em programação e sempre  à aprender mais.
 - 🌱 Atualmente eu estou aprendendo JAVASCRIPT E JAVA.
 - 💞️ Estou querendo colaborar com novos desenvolvedores e é claro aprender também!
 - 📫 Como você pode me encontrar: https://www.linkedin.com/in/matheus-silva25/
