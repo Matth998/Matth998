@@ -29,6 +29,3 @@ O mundo não se divide em pessoas boas e más. Todos temos luz e trevas dentro d
 </div>
 
 
-![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
-
-
