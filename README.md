@@ -1,4 +1,4 @@
-O mundo não se divide em pessoas boas e más. Todos temos luz e trevas dentro de nós. O que importa é o lado o qual decidimos agir. Isso é o que realmente somos! https://tenor.com/view/harry-potter-dumbledore-clap-clapping-applause-gif-3843673
+O mundo não se divide em pessoas boas e más. Todos temos luz e trevas dentro de nós. O que importa é o lado o qual decidimos agir. Isso é o que realmente somos! 
 
 <h1> Skills </h1>
 
