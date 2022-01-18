@@ -1,5 +1,4 @@
 O mundo não se divide em pessoas boas e más. Todos temos luz e trevas dentro de nós. O que importa é o lado o qual decidimos agir. Isso é o que realmente somos! 
-<img src= "https://c.tenor.com/2lCoAAOAvUsAAAAC/dumbledore-frustrated.gif" width="120" height="120" />
 
 My portfolio : https://matth998.github.io/portfolio/
 
