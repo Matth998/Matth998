@@ -33,8 +33,8 @@ My portfolio : https://matth998.github.io/portfolio/
   
  ![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
   
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matth998}/count.svg" /></p> 
-
+   <p align ="Center"><strong> Visitas a partir de 27/01/2022 </strong> :detective:</p>
+   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matth998}/count.svg" /></p> 
 
 
 
