@@ -1,6 +1,6 @@
 <img width = "300px" height = "300px" align = "right" src="https://i.imgur.com/IzCXwro.png" title="source: imgur.com"/>
 
-O mundo não se divide em pessoas boas e más. Todos temos luz e trevas dentro de nós. O que importa é o lado o qual decidimos agir. Isso é o que realmente somos! 
+"O mundo não se divide em pessoas boas e más. Todos temos luz e trevas dentro de nós. O que importa é o lado o qual decidimos agir. Isso é o que realmente somos!"
 
 My portfolio : https://matth998.github.io/portfolio/
 
