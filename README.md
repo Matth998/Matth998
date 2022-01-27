@@ -26,15 +26,15 @@ My portfolio : https://matth998.github.io/portfolio/
 <h1> Estatísticas GitHub </h1>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Matth998"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth998&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matth998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matth998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
   
  ![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
   
-   <p align ="Center"><strong> Visitas a partir de 27/01/2022 </strong> :detective:</p>
-   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matth998}/count.svg" /></p> 
-
-
+   <p align="center"><strong> Visitas</strong> a partir de 27/01/22 :detective: <br>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Matth998/count.svg" />
+</p> 
 
