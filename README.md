@@ -32,6 +32,8 @@ My portfolio : https://matth998.github.io/portfolio/
 </div>
   
  ![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
+  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matth998}/count.svg" /></p> 
 
 
 
