@@ -1,6 +1,6 @@
 <img width = "300px" height = "300px" align = "right" src="https://i.imgur.com/IzCXwro.png" title="source: imgur.com"/>
 
-"O mundo não se divide em pessoas boas e más. Todos temos luz e trevas dentro de nós. O que importa é o lado o qual decidimos agir. Isso é o que realmente somos!"
+"We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."
 
 My portfolio : https://matth998.github.io/portfolio/
 
@@ -16,14 +16,14 @@ My portfolio : https://matth998.github.io/portfolio/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
 
-<h1>Contatos: </h1>
+<h1>Contacts: </h1>
 <div>
 <a href="https://www.instagram.com/_matthsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-silva25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
 </div>
 
-<h1> Estatísticas GitHub </h1>
+<h1> Statistics GitHub </h1>
 
 <div>
 <a href="https://github.com/Matth998"> 
@@ -33,7 +33,7 @@ My portfolio : https://matth998.github.io/portfolio/
   
  ![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
   
-   <p align="center"><strong> Visitas</strong> a partir de 27/01/22 :detective: <br>
+   <p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Matth998/count.svg" />
 </p> 
