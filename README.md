@@ -2,7 +2,7 @@
 
 "We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."
 
-My portfolio : <a href="https://matth998.github.io/portfolio/" target="_blank">https://matth998.github.io/portfolio/</a>
+My portfolio : <a href="https://matth998.github.io/portfolio/">https://matth998.github.io/portfolio/</a>
 
 <h1> Skills </h1>
 
