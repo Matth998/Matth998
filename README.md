@@ -35,6 +35,15 @@ My portfolio : <a href="https://matth998.github.io/portfolio/">https://matth998.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth998&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matth998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
 </div>
+
+
+  
+<h1> My Jedi Condemnations in Missions </h1>
+<div align = "center">
+  
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Matth998&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
   
  ![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
   
