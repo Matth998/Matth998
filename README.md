@@ -44,9 +44,21 @@ My portfolio : <a href="https://matth998.github.io/portfolio/">https://matth998.
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Matth998&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+<h1> My Sidereal Activities </h1>
+
+<div align = "center">
   
+  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Matth998&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>  
+
+<div align = "center">
+
  ![Snake animation](https://github.com/Matth998/Matth998/blob/output/github-contribution-grid-snake.svg)
-  
+ 
+</div>
+   
    <p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Matth998/count.svg" />
