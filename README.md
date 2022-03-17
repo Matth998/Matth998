@@ -30,7 +30,7 @@ My portfolio : <a href="https://matth998.github.io/portfolio/">https://matth998.
 
 <h1> Statistics GitHub </h1>
 
-<div>
+<div align = center>
 <a href="https://github.com/Matth998"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth998&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matth998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
@@ -49,7 +49,7 @@ My portfolio : <a href="https://matth998.github.io/portfolio/">https://matth998.
 
 <div align = "center">
   
-  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Matth998&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Matth998&theme=tokyonight_duo	)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>  
 
