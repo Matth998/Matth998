@@ -2,6 +2,8 @@
 
 "We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."
 
+<p align = "right"> -Alvo Dumbledore </p>
+
 My portfolio : <a href="https://matth998.github.io/portfolio/">https://matth998.github.io/portfolio/</a>
 
 <h1> Skills </h1>
