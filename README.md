@@ -4,7 +4,7 @@
 
 <p align = "right"> -Alvo Dumbledore </p>
 
-My portfolio : <a href="https://matth998.github.io/portfolio/">https://matth998.github.io/portfolio/</a>
+My portfolio : <a href="https://mathsilva.netlify.app">https://matth998.github.io/portfolio/</a>
 
 <h1> Skills </h1>
 
