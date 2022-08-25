@@ -39,15 +39,6 @@ My portfolio : <a href="https://mathsilva.netlify.app">https://mathsilva.netlify
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matth998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
 </div>
 
-
-  
-<h1> My Jedi Condemnations in Missions </h1>
-<div align = "center">
-  
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Matth998&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <h1> My Sidereal Activities </h1>
 
 <div align = "center">
