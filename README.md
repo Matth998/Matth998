@@ -31,14 +31,6 @@ My portfolio : <a href="https://mathsilva.netlify.app">https://mathsilva.netlify
   
 </div>
 
-<h1> Statistics GitHub </h1>
-
-<div align = center>
-<a href="https://github.com/Matth998"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth998&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matth998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-</div>
-
 <h1> My Sidereal Activities </h1>
 
 <div align = "center">
