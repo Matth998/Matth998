@@ -45,8 +45,4 @@ My portfolio : <a href="https://mathsilva.netlify.app">https://mathsilva.netlify
  
 </div>
    
-   <p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Matth998/count.svg" />
-</p> 
 
