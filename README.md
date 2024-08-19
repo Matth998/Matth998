@@ -1,4 +1,4 @@
-<img width = "300px" height = "300px" align = "right" src="https://i.imgur.com/874RC73.jpg" title="source: imgur.com"/>
+<img width = "300px" height = "300px" align = "right" src="https://i.imgur.com/Gz3BSNC.jpg" title="source: imgur.com"/>
 
 "We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."
 
